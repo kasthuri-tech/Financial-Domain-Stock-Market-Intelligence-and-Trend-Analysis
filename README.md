@@ -26,8 +26,11 @@ This project is a data-driven stock market analytics system developed using Pyth
 - `processor.py` → Data cleaning and preprocessing
 - `database_loader.py` → Database integration
 - `power_bi_export.py` → Power BI export pipeline
+- `Stock_Analysis_Research.ipynb` → Initial data exploration and analysis notebook
 - `stock_analysis.db` → SQLite database
-- `Stock_Analysis_PowerBI_Dashboard.pbix` → Power BI dashboard
+- `requirements.txt` → Project dependencies
+- `Test data/` → Contains original YAMLs, Nifty 50 CSVs, and Streamlit screenshots
+- `Test data/PowerBI_Report/Stock_Analysis_PowerBI_Dashboard.pbix` → Power BI dashboard
 
 ## Business Objective
 The goal of this project is to build a financial analytics solution capable of identifying stock market patterns, supporting decision-making, and generating actionable market intelligence insights.
