@@ -1,5 +1,7 @@
 # Financial Domain: Stock Market Intelligence and Trend Analysis
 
+📌 Note: Built during my data science program using a practice dataset. The end-to-end implementation, modeling, and application were independently developed.
+
 ## Project Overview
 This project is a data-driven stock market analytics system developed using Python, Pandas, SQL, Streamlit, and Power BI. The system focuses on organizing, cleaning, analyzing, and visualizing stock market trends to generate meaningful business and financial insights.
 
